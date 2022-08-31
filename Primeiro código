@@ -14,12 +14,11 @@
         Tenho 17 anos
        
     </body>
-
-
 </html>
 
 
 //Código com alterações:
+
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -29,12 +28,11 @@
     <body>
         <h1>Bem vindos ao meu site!</h1>
         Olá, mundo!
+        <hr>
         <h2>Informações pessoais:</h2>
-        Meu nome é Alanna Keila
+        Meu nome é <b>Alanna Keila</b>
         <br>
         Tenho 17 anos
        
     </body>
-
-
-</html
+</html>
