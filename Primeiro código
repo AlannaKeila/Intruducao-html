@@ -17,3 +17,24 @@
 
 
 </html>
+
+
+//Código com alterações:
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    
+        <title> Meu primeiro HTLML</title>
+    </head>
+    <body>
+        <h1>Bem vindos ao meu site!</h1>
+        Olá, mundo!
+        <h2>Informações pessoais:</h2>
+        Meu nome é Alanna Keila
+        <br>
+        Tenho 17 anos
+       
+    </body>
+
+
+</html
