@@ -19,7 +19,7 @@
         <br>
         <hr>
 
-        <h1 style="color:rgb(70, 5, 131); text-align: center;">Assalto no Banco Central</h1>
+        <h1 style="color:rgb(70, 5, 131); text-align: center;">Banco Central é alvo de assalto milionário</h1>
         <h2 style="color:black; text-align: center;">Entre os dias 6 e 7 de agosto, ladrões realizaram um assalto ao Banco Central do Brasil em Fortaleza, no Ceará. 
             Segundo estimativas da Polícia Federal, os ladrões levaram aproximadamente 150 milhões de reais, fazendo deste, o segundo maior assalto já ocorrido no Brasil. O furto foi realizado à partir de um túnel que foi escavado à cerca de 3 meses, o que possibilitou o acesso ao Banco.  </h2>
         <br>
@@ -27,8 +27,11 @@
         <br>
 
         <a href="https://www.gazetadopovo.com.br/vida-publica/ladroes-levam-r-150-milhoes-do-bc-9nd1k4glcj8gk36ijef2gtqha/"> Ficou curioso(a)? Acesse este link para saber mais informações:</a>
-
-
+        <hr>
+        <h1 style="color: rgb(70, 5, 131); text-align: center;">Inédito! Criação da mais nova plataforma de compartilhamento de vídeos</h1> 
+        <h2 style="color:black; text-align: center;">Em 14 de fevereiro deste ano, Chad Hurley e Steve Chen, funcionários de uma empresa de tecnologia de São Francisco, EUA, criaram o site intitulado de "YouTube". A função deste novo fenômeno é permitir que os usúarios assistam e compartilhem vídeos de forma digital. Com essa plataforma, os usuários não serão empedidos de enviar vídeos grandes, como acontecia no compartilhamento via email. </h2>
+        <p style="text-align:center"><img src="YOUTUBE1.png" alt="Logo YouTube" height="260" width="300">
 
     </body>
 </html>
+
