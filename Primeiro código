@@ -1,38 +1,51 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
-        <title> Meu primeiro HTLML</title>
+    
+        <title> Meu primeiro HTML</title>
     </head>
-    <body>
+    <body style = "background-color:rgb(204, 171, 189); color:rgb(194, 34, 82)">
+        <h1>Bem vindos ao meu site!</h1>
+        <p style="color:rgb(110, 7, 64);text-align: center;">
         Olá, mundo!
         <br>
-        Sejam bem vindos ao meu primeiro site:
-        <br>
-        <br>
+        Este é o meu primeiro site!
+        <hr>
+        <h2>Informações pessoais:</h2>
+        <p style="color:rgb(110, 7, 64);text-align:center;">
         Meu nome é Alanna Keila
         <br>
         Tenho 17 anos
-       
-    </body>
-</html>
-
-
-//Código com alterações:
-
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-    
-        <title> Meu primeiro HTLML</title>
-    </head>
-    <body>
-        <h1>Bem vindos ao meu site!</h1>
-        Olá, mundo!
-        <hr>
-        <h2>Informações pessoais:</h2>
-        Meu nome é <b>Alanna Keila</b>
         <br>
-        Tenho 17 anos
+        <br>
+        <hr>
+        <h2>Cursos Realizados:</h2>
+        <ul style="color:rgb(110, 7, 64)">
+            <li>Informática básica</li>
+            <li>Github</li>
+            <li>Python</li>
+            <li>Programação orientada a objetos</li>
+            <li>Java básico</li>
+        </ul>
+        <hr>
+        <h2>Disciplinas cursadas:</h2>
+        <ul>Disciplinas cursadas no 1° ano:</ul>
+        <ol style="color: rgb(110, 7, 64);">
+            <li>Informática básica</li>
+            <li>Arquitetura de Computadores</li>
+            <li>Algoritmo e lógica de programação</li>
+           
+        </ol>
+        <ul>Disciplinas cursadas no 2° ano:</ul>
+        <ol style="color: rgb(110, 7, 64);">
+         <li>Instalação e manutenção de computadores</li>
+         <li>Banco de dados</li>
+         <li>Sistemas operacionais</li>
+         <li>Análise e projeto de sistemas</li>
+         <li>Linguagem de programação 1 - Java</li>
+        
        
     </body>
+
+
 </html>
