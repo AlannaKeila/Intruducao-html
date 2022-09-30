@@ -10,16 +10,26 @@
         Olá, mundo!
         <br>
         Este é o meu primeiro site!
+        <br>
+        <br>
+        <img src="lua.jpeg" alt="fases da lua" height="150" width="240">
+        <br>
+        <br>
+        <br>
+        <a href="#Cursos_realizados">Cursos Realizados</a>
+        <a href="#disciplinas">Disciplinas Cursadas</a>
+        <a href="#informacoes_pessoais">Informações pessoais:</a>
         <hr>
-        <h2>Informações pessoais:</h2>
+        <h2 id="informacoes_pessoais">Informações pessoais:</h2>
         <p style="color:rgb(110, 7, 64);text-align:center;">
         Meu nome é Alanna Keila
         <br>
         Tenho 17 anos
         <br>
+        Sou de Tucano-Bahia
         <br>
         <hr>
-        <h2>Cursos Realizados:</h2>
+        <h2 id="Cursos_realizados">Cursos Realizados: </h2>
         <ul style="color:rgb(110, 7, 64)">
             <li>Informática básica</li>
             <li>Github</li>
@@ -28,7 +38,7 @@
             <li>Java básico</li>
         </ul>
         <hr>
-        <h2>Disciplinas cursadas:</h2>
+        <h2 id="disciplinas">Disciplinas cursadas:</h2>
         <ul>Disciplinas cursadas no 1° ano:</ul>
         <ol style="color: rgb(110, 7, 64);">
             <li>Informática básica</li>
@@ -43,8 +53,34 @@
          <li>Sistemas operacionais</li>
          <li>Análise e projeto de sistemas</li>
          <li>Linguagem de programação 1 - Java</li>
-        
-       
+
+        <br>
+        <hr>
+         <h2 style="color:rgb(194, 34, 82)">Portifólio:</h2>
+         <a href="Site_fofocas.html" target="_blank">Fuxitime - Site de fofocas</a>
+         <hr>
+        <h2 style="color:rgb(194, 34, 82)">Notas do IFBA:</h2>
+         <table border="5">
+            <tr >
+            <th>Disciplinas</th>
+              <th>1 ano</th>
+              <th>2 ano</th>
+              <th>3 ano</th>
+            </tr>
+            <tr>
+              <th>Matemática</th>
+              <td>10.0</td>
+              <td>9.5</td>
+              <td>8.8</td>
+            </tr>
+            <tr>
+            <th>Desen. Web</th>
+              <td>10.0</td>
+              <td>9.9</td>
+              <td>10.0</td>
+            </tr>
+          </table>
+
     </body>
 
 
