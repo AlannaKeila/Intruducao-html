@@ -19,6 +19,7 @@
         <a href="#Cursos_realizados">Cursos Realizados</a>
         <a href="#disciplinas">Disciplinas Cursadas</a>
         <a href="#informacoes_pessoais">Informações pessoais:</a>
+        <a href="#notas">Notas do IFBA</a>
         <hr>
         <h2 id="informacoes_pessoais">Informações pessoais:</h2>
         <p style="color:rgb(110, 7, 64);text-align:center;">
@@ -59,7 +60,7 @@
          <h2 style="color:rgb(194, 34, 82)">Portifólio:</h2>
          <a href="Site_fofocas.html" target="_blank">Fuxitime - Site de fofocas</a>
          <hr>
-        <h2 style="color:rgb(194, 34, 82)">Notas do IFBA:</h2>
+        <h2 style="color:rgb(194, 34, 82)" id ="notas">Notas do IFBA:</h2>
          <table border="5">
             <tr >
             <th>Disciplinas</th>
