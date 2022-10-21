@@ -5,14 +5,14 @@
         <title> Meu primeiro HTML</title>
     </head>
     <body style = "background-color:rgb(204, 171, 189); color:rgb(194, 34, 82)">
-        <h1>Bem vindos ao meu site!</h1>
+        <h1 style="text-align:center">Bem vindos ao meu site!</h1>
         <p style="color:rgb(110, 7, 64);text-align: center;">
         Olá, mundo!
         <br>
         Este é o meu primeiro site!
         <br>
         <br>
-      <img src="https://conhecimentocientifico.com/wp-content/uploads/2019/10/fases-da-lua-conheca-as-caracteristicas-de-cada-ciclo-e-as-curiosidades.jpg" alt="fases da lua" height="200" width="480">
+        <img src="https://conhecimentocientifico.com/wp-content/uploads/2019/10/fases-da-lua-conheca-as-caracteristicas-de-cada-ciclo-e-as-curiosidades.jpg" alt="fases da lua" height="200" width="480">
         <br>
         <br>
         <br>
@@ -20,6 +20,7 @@
         <a href="#disciplinas">Disciplinas Cursadas</a>
         <a href="#informacoes_pessoais">Informações pessoais:</a>
         <a href="#notas">Notas do IFBA</a>
+        <a href="#conhecendoleitor">Apresente-se</a>
         <hr>
         <h2 id="informacoes_pessoais">Informações pessoais:</h2>
         <p style="color:rgb(110, 7, 64);text-align:center;">
@@ -81,6 +82,16 @@
               <td>10.0</td>
             </tr>
           </table>
+          <hr>
+          <h2 style="color:rgb(194,34,82)"id="conhecendoleitor"> Leitor, apresente-se:</h2>
+          <div>
+            <span style="display:inline-block; width: 110px;"> Digite seu nome: </span>
+            <input type="text">
+          </div>
+          <br>
+          <span style="display:inline-block; width: 110px;"> Matrícula:</span>
+          <input type="text">
+
 
     </body>
 
