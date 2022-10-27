@@ -16,11 +16,11 @@
         <br>
         <br>
         <br>
-        <a href="#Cursos_realizados">Cursos Realizados</a>
-        <a href="#disciplinas">Disciplinas Cursadas</a>
-        <a href="#informacoes_pessoais">Informações pessoais:</a>
-        <a href="#notas">Notas do IFBA</a>
-        <a href="#conhecendoleitor">Apresente-se</a>
+        <a href="#Cursos_realizados">Cursos Realizados</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#disciplinas">Disciplinas Cursadas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#informacoes_pessoais">Informações pessoais:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#notas">Notas do IFBA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#conhecendoleitor">Apresente-se</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <hr>
         <h2 id="informacoes_pessoais">Informações pessoais:</h2>
         <p style="color:rgb(110, 7, 64);text-align:center;">
