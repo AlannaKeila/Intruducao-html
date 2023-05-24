@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TelaDeAlteracaoDeLivro {
     public static void main(String[] args) {
          Scanner scanner = new Scanner(System.in);
-         EntityManagerFactory emf = Persistence.createEntityManagerFactory("Livro");
+         EntityManagerFactory emf = Persistence.createEntityManagerFactory("aplicativo");
          EntityManager em = emf.createEntityManager();
 
         try{
